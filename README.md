@@ -23,7 +23,7 @@
 
 ###
 
-<h4 align="left">👋 Hey there!<br><br>A self-taught developer passionate about Linux system development, low-level programming, and security research.</h4>
+<h4 align="left">A self-taught developer passionate about Linux system development, low-level programming, and security research.</h4>
 
 ###
 
